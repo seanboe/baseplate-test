@@ -1,4 +1,4 @@
-2196147221793885
+2201037417556366
 0_Fiducial
 Fiducial_0.5mm_Mask1.5mm
 Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
@@ -435,6 +435,13 @@ test_point_1.2mm_square
 1
 0_misc
 test_point_1.5mm_square
+
+
+0
+1
+1
+0_misc
+test_point_2mm_square
 
 
 0
@@ -9548,12 +9555,26 @@ RN55E2670BRE6
 2
 2
 project_footprints
+USB3_A_Molex_48393-001
+USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
+USB 3.0 type A right angle
+0
+13
+10
+project_footprints
 USB5537B-5000AKZE
 QFN, 72 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001682C.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 82
 73
+project_footprints
+USB_A_Molex_67643_Horizontal
+USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
+USB_A Female Connector receptacle
+0
+6
+5
 project_footprints
 V_LSHM-120-02.5-L-DV-A-S-K-TR
 
